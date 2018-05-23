@@ -1,11 +1,11 @@
-country,city,hours_spent_in_congestion,year
-United Kingdom,London,74,2017
-France,Paris,69,2017
-Switzerland,Geneva,52,2017
-Switzerland,Zurich,51,2017
-Germany,Munich,51,2017
-Norway,Oslo,46,2017
-Germany,Hamburg,44,2017
-Germany,Berlin,44,2017
-Germany,Stuttgart,44,2017
-Ireland,Galway,44,2017
+country,city,hours_spent_in_congestion,year,density_km2
+United Kingdom,London,74,2017,5590
+France,Paris,69,2017,21000
+Switzerland,Geneva,52,2017,12000
+Switzerland,Zurich,51,2017,4600
+Germany,Munich,51,2017,4700
+Norway,Oslo,46,2017,1400
+Germany,Hamburg,44,2017,2400
+Germany,Berlin,44,2017,4200
+Germany,Stuttgart,44,2017,3000
+Ireland,Galway,44,2017,1508
